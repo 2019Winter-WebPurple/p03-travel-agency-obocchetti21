@@ -1,0 +1,22 @@
+/* Olivia Bocchetti
+* 4/9/19
+* P03 Project - Padua Panda Travel
+*/
+
+/* The universal selector */
+
+* {
+
+}
+      
+ #fijiboat {height: 200px;width: 300px;}
+#fijibungalows {height: 200px;width: 300px;} 
+#fijibeaches {height: 200px;width: 300px;} 
+/* Body properties here */
+
+body {
+        background-color:darkseagreen;
+        width: 85%;
+        margin: auto;   
+
+}
